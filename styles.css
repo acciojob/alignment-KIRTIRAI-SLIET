@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+table {
+	border: 1px solid #000;
+	padding:1px;
+	margin:1px;
+	width:100%;
+}
+th,tr,td {
+	border: 1px solid #000;
+}
+.center {
+	text-align:center;
+}
+.right {
+	text-align:right;
+}
+.green {
+	background-color:green;
+}
+.blue {
+	background-color:blue;
+}
+.middle {
+	justify-content:center;
+}
